@@ -63,6 +63,7 @@ geopy
 gitdb
 GitPython
 google-auth
+google-cloud
 google-auth-oauthlib
 google-pasta
 gradio
