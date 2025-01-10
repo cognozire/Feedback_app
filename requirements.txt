@@ -3,7 +3,7 @@ aiohappyeyeballs
 aiohttp
 aiosignal
 alembic
-altair
+altair==4.0
 anyio
 argon2-cffi
 argon2-cffi-bindings
