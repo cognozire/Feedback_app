@@ -8,6 +8,7 @@ anyio
 argon2-cffi
 argon2-cffi-bindings
 moviepy
+google-cloud-storage
 arrow
 astroid
 asttokens
